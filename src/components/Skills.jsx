@@ -39,7 +39,7 @@ export default function Skills() {
                          hover:border-blue-500 hover:-translate-y-2
                          transition-all duration-300"
                         >
-                       
+
                             <div
                                 className={`text-4xl mb-4 ${skill.color}
                             group-hover:scale-110 transition`}
@@ -47,7 +47,7 @@ export default function Skills() {
                                 {skill.icon}
                             </div>
 
-             
+
                             <h3 className="text-sm font-medium text-gray-200">
                                 {skill.name}
                             </h3>

@@ -7,7 +7,7 @@ export default function Projects() {
       description: "My personal portfolio built using React and Tailwind CSS.",
       tech: ["React", "Tailwind"],
       screenshot: "/projects/image3.jpeg",
-      github: "https://github.com/Https-Asad",
+      github: "https://github.com/Https-Asad/Personal-Portfolio.git",
     },
     {
       title: "Todo App",
